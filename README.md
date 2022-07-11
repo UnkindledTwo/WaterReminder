@@ -2,4 +2,4 @@
 An app to remind users to drink their water daily
 
 ## Note
-This app requuires libnotify to send notifications on Linux
+This app requires libnotify to send notifications on Linux
