@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/notif.wav</file>
+        <file>Resources/trayIcon.png</file>
+    </qresource>
+</RCC>
